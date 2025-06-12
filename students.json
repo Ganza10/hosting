@@ -1,0 +1,29 @@
+[
+  {
+    "student_id": "21RP11969",
+    "full_name": "Eliane Iradukunda",
+    "department": "ICT",
+    "level": 4,
+    "email": "eliane@gmail.com",
+    "status": "graduated",
+    "id": "1749651932539"
+  },
+  {
+    "student_id": "22RP11161",
+    "full_name": "Diane Nkunda",
+    "department": "Horticulture",
+    "level": 3,
+    "email": "nkunda@gmail.com",
+    "status": "graduated",
+    "id": "1749651985033"
+  },
+  {
+    "student_id": "22RP10044",
+    "full_name": "Ganza Aline",
+    "department": "EEE",
+    "level": 4,
+    "email": "aline@gmail.com",
+    "status": "active",
+    "id": "1749652050799"
+  }
+]
